@@ -27,7 +27,7 @@ namespace Planning_Service
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            var factory = new ConnectionFactory { HostName = "localhost" };
+            var factory = new ConnectionFactory { HostName = Environment.GetEnvironmentVariable("RabbitMQHost") };
 
             using var connection = factory.CreateConnection();
             using var channel = connection.CreateModel();
