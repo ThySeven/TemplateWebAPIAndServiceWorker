@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Planning-Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d15538310ac45213e3b92c70bf6c3e54a125b1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7384a44fa268e5c4614bf70a4c056cbfc9230e89")]
 [assembly: System.Reflection.AssemblyProductAttribute("Planning-Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Planning-Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

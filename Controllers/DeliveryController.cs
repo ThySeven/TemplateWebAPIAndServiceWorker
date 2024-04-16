@@ -7,15 +7,14 @@ namespace Planning_Service.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-public class DeliverysController : ControllerBase
+public class DeliveryController : ControllerBase
 {
     private readonly DeliveryService _deliveryService;
     private readonly IMemoryCache _memoryCache;
 
-    public DeliverysController(DeliverysService deliveryService, IMemoryCache memoryCache)
+    public DeliveryController(DeliveryService deliveryService)
     {
         _deliveryService = deliveryService;
-        _memoryCache = memoryCache;
     }
 
     [HttpGet]

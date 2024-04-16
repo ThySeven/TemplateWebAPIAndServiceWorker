@@ -5,11 +5,11 @@ using MongoDB.Driver.Core.Configuration;
 
 namespace Planning_Service.Services;
 
-public class DeliverysService
+public class DeliveryService
 {
     private readonly IMongoCollection<Delivery> _deliveryCollection;
 
-    public DeliverysService(
+    public DeliveryService(
         IOptions<DeliveryDatabaseSettings> deliveryDatabaseSettings)
     {
         var mongoClient = new MongoClient(
@@ -19,7 +19,8 @@ public class DeliverysService
             deliveryDatabaseSettings.Value.DatabaseName);
 
         _deliveryCollection = mongoDatabase.GetCollection<Delivery>(
-            deliveryDatabaseSettings.Value.DeliverysCollectionName);
+            deliveryDatabaseSettings.Value.DeliveryCollectionName);
+        Console.WriteLine("Test");
     }
 
     public async Task<List<Delivery>> GetAsync() =>

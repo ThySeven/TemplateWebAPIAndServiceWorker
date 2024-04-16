@@ -1,4 +1,4 @@
-namespace ServiceWorker.Models;
+namespace Planning_Service.Models;
 
 public class DeliveryDatabaseSettings
 {

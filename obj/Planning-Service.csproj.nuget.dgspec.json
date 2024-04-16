@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/MiniProjekt-2/Planning-Service/Planning-Service.csproj": {}
+    "/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/Planning-Service/Planning-Service.csproj": {}
   },
   "projects": {
-    "/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/MiniProjekt-2/Planning-Service/Planning-Service.csproj": {
+    "/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/Planning-Service/Planning-Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/MiniProjekt-2/Planning-Service/Planning-Service.csproj",
+        "projectUniqueName": "/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/Planning-Service/Planning-Service.csproj",
         "projectName": "Planning-Service",
-        "projectPath": "/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/MiniProjekt-2/Planning-Service/Planning-Service.csproj",
+        "projectPath": "/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/Planning-Service/Planning-Service.csproj",
         "packagesPath": "/Users/nicolajorluff/.nuget/packages/",
-        "outputPath": "/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/MiniProjekt-2/Planning-Service/obj/",
+        "outputPath": "/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/Planning-Service/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nicolajorluff/.nuget/NuGet/NuGet.Config"

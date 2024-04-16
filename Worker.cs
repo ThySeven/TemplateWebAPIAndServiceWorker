@@ -8,17 +8,21 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using Planning_Service.Models;
+using System.Text.Json;
+using Planning_Service.Services;
 
-namespace ServiceWorker
+namespace Planning_Service
 {
     public class Worker : BackgroundService
     {
-        private readonly string _csvFilePath = "people.csv";
         private readonly ILogger<Worker> _logger;
 
-        public Worker(ILogger<Worker> logger)
+        private DeliveryService _deliveryService;
+
+        public Worker(ILogger<Worker> logger, DeliveryService serivce)
         {
             _logger = logger;
+            _deliveryService = serivce;
         }
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
@@ -38,30 +42,16 @@ namespace ServiceWorker
             delivery.Received += async (model, ea) =>
             {
                 var shipment = ea.Body.ToArray();
-                var message = Encoding.UTF8.GetString(shipment);
+                var uftString = Encoding.UTF8.GetString(shipment);
+                var message = JsonSerializer.Deserialize<Delivery>(uftString);
                 Console.WriteLine($" [x] Received {message}");
 
-                var parts = message.Split(',');
-                var name = parts[0];
-                var city = parts[1];
-
-                if (!File.Exists(_csvFilePath))
-                {
-                    using (var writer = new StreamWriter(_csvFilePath, append: true))
-                    {
-                        await writer.WriteLineAsync("Name,City");
-                    }
-                }
-
-                using (var writer = new StreamWriter(_csvFilePath, append: true))
-                {
-                    await writer.WriteLineAsync($"{name},{city}");
-                }
+                await _deliveryService.CreateAsync(message);
             };
 
-            channel.BasicConsume(queue: "shipmentQueue",
+            channel.BasicConsume(queue: "deliveryQueue",
                                  autoAck: true,
-                                 consumer: consumer);
+                                 consumer: delivery);
 
             await Task.Delay(Timeout.Infinite, stoppingToken);
         }

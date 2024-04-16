@@ -1,19 +1,14 @@
 
+using Planning_Service.Models;
+using Planning_Service.Services;
+
 namespace Planning_Service;
 
 public class Program
 {
     public static void Main(string[] args)
     {
-        var webApplicationOptions = new WebApplicationOptions
-        {
-            Args = args,
-            ContentRootPath = WindowsServiceHelpers.IsWindowsService()
-                ? AppContext.BaseDirectory
-                : default
-        };
-
-        var builder = WebApplication.CreateBuilder(webApplicationOptions);
+        var builder = WebApplication.CreateBuilder(args);
 
         // Add services to the container.
         builder.Services.Configure<DeliveryDatabaseSettings>(
@@ -27,7 +22,6 @@ public class Program
         builder.Services.AddSwaggerGen();
 
         builder.Services.AddHostedService<Worker>();
-        builder.Host.UseWindowsService();
 
         var app = builder.Build();
 
