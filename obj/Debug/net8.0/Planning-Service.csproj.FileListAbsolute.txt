@@ -1,0 +1,8 @@
+/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/MiniProjekt-2/Planning-Service/obj/Debug/net8.0/Planning-Service.csproj.AssemblyReference.cache
+/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/MiniProjekt-2/Planning-Service/obj/Debug/net8.0/Planning-Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/MiniProjekt-2/Planning-Service/obj/Debug/net8.0/Planning-Service.AssemblyInfoInputs.cache
+/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/MiniProjekt-2/Planning-Service/obj/Debug/net8.0/Planning-Service.AssemblyInfo.cs
+/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/MiniProjekt-2/Planning-Service/obj/Debug/net8.0/Planning-Service.csproj.CoreCompileInputs.cache
+/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/MiniProjekt-2/Planning-Service/obj/Debug/net8.0/Planning-Service.MvcApplicationPartsAssemblyInfo.cs
+/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/MiniProjekt-2/Planning-Service/obj/Debug/net8.0/Planning-Service.MvcApplicationPartsAssemblyInfo.cache
+/Users/nicolajorluff/Documents/IT-Arkitektur/4. Semester/IT Arkitektur & Infrastruktur/MiniProjekt-2/Planning-Service/obj/Debug/net8.0/Planning-Service.sourcelink.json
