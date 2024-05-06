@@ -1,0 +1,8 @@
+C:\Users\Bruger\Source\Repos\PlanningService\obj\Debug\net8.0\WebAPI&BackgrundWorkerTemplate.csproj.AssemblyReference.cache
+C:\Users\Bruger\Source\Repos\PlanningService\obj\Debug\net8.0\WebAPI&BackgrundWorkerTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Source\Repos\PlanningService\obj\Debug\net8.0\WebAPI&BackgrundWorkerTemplate.AssemblyInfoInputs.cache
+C:\Users\Bruger\Source\Repos\PlanningService\obj\Debug\net8.0\WebAPI&BackgrundWorkerTemplate.AssemblyInfo.cs
+C:\Users\Bruger\Source\Repos\PlanningService\obj\Debug\net8.0\WebAPI&BackgrundWorkerTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Source\Repos\PlanningService\obj\Debug\net8.0\WebAPI&BackgrundWorkerTemplate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bruger\Source\Repos\PlanningService\obj\Debug\net8.0\WebAPI&BackgrundWorkerTemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bruger\Source\Repos\PlanningService\obj\Debug\net8.0\WebAPI&BackgrundWorkerTemplate.sourcelink.json

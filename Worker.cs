@@ -7,9 +7,9 @@ using System.IO;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using Planning_Service.Models;
 using System.Text.Json;
 using Planning_Service.Services;
+using Planning_Service.Models;
 
 namespace Planning_Service
 {
@@ -17,9 +17,9 @@ namespace Planning_Service
     {
         private readonly ILogger<Worker> _logger;
 
-        private DeliveryService _deliveryService;
+        private TestTemplateService _deliveryService;
 
-        public Worker(ILogger<Worker> logger, DeliveryService serivce)
+        public Worker(ILogger<Worker> logger, TestTemplateService serivce)
         {
             _logger = logger;
             _deliveryService = serivce;
@@ -43,7 +43,7 @@ namespace Planning_Service
             {
                 var shipment = ea.Body.ToArray();
                 var uftString = Encoding.UTF8.GetString(shipment);
-                var message = JsonSerializer.Deserialize<Delivery>(uftString);
+                var message = JsonSerializer.Deserialize<Test>(uftString);
                 Console.WriteLine($" [x] Received {message}");
 
                 await _deliveryService.CreateAsync(message);

@@ -1,4 +1,6 @@
 
+using NLog.Web;
+using NLog;
 using Planning_Service.Models;
 using Planning_Service.Services;
 
@@ -11,10 +13,46 @@ public class Program
         var builder = WebApplication.CreateBuilder(args);
 
         // Add services to the container.
-        builder.Services.Configure<DeliveryDatabaseSettings>(
-            builder.Configuration.GetSection("DeliveryDatabase"));
+        builder.Services.Configure<DatabaseSettings>(
+            builder.Configuration.GetSection("TESTDB"));//Placeholder name
 
-        builder.Services.AddSingleton<DeliveryService>();
+
+        var logger = NLog.LogManager.Setup().LoadConfigurationFromAppSettings()
+.GetCurrentClassLogger();
+        logger.Debug("init main");
+
+        try
+        {
+            var host = Host.CreateDefaultBuilder(args)
+                .ConfigureLogging(logging =>
+                {
+                    logging.ClearProviders();
+                    logging.SetMinimumLevel(Microsoft.Extensions.Logging.LogLevel.Trace);
+                })
+                .UseNLog()
+                .ConfigureServices((hostContext, services) =>
+                {
+                    services.AddHostedService<Worker>();
+                })
+                .Build();
+
+            host.Run();
+
+
+        }
+        catch (Exception ex)
+        {
+            logger.Error(ex, "Stopped program because of exception");
+            throw;
+        }
+        finally
+        {
+            NLog.LogManager.Shutdown();
+        }
+
+
+
+        builder.Services.AddSingleton<TestTemplateService>();
 
         builder.Services.AddControllers();
         // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
