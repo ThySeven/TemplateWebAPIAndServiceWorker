@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAPI&BackgrundWorkerTemplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a250b9d0ec046466879625d7ff760ed01eb99b85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10712a41dca1bd6515408942e22f4e2502aad7fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAPI&BackgrundWorkerTemplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAPI&BackgrundWorkerTemplate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

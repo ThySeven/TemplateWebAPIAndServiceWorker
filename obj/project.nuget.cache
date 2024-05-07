@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rVJVmwT/2i1N4MeoafoCdW+CR1UY2nI0amUPRPfw6OwbixlbPoK83ZUYfIxg5riyUnhVe1a7ip3lzZBPuAfShw==",
+  "dgSpecHash": "+eowtk/Pb4yL69Q08hsgZUrmJecIqajIHL6Ue2FuHNMpjrow03QgZBCDcwy4DjpP6305RwfD4GhEnZzUVnEp4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\WebAPI&BackgrundWorkerTemplate.csproj",
+  "projectFilePath": "C:\\Users\\Bruger\\source\\repos\\WebAPI&BackgrundWorkerTemplate\\WebAPI&BackgrundWorkerTemplate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruger\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Bruger\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

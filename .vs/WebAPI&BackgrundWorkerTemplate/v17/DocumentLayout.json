@@ -1,45 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\",
+  "WorkspaceRootPath": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\planningservice\\webapi\u0026backgrundworkertemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\webapi\u0026backgrundworkertemplate\\webapi\u0026backgrundworkertemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|solutionrelative:webapi\u0026backgrundworkertemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\planningservice\\planning-service.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|solutionrelative:planning-service.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\planningservice\\services\\testtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\webapi\u0026backgrundworkertemplate\\services\\testtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|solutionrelative:services\\testtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\planningservice\\models\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\webapi\u0026backgrundworkertemplate\\models\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|solutionrelative:models\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\planningservice\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\webapi\u0026backgrundworkertemplate\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|solutionrelative:models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\planningservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\webapi\u0026backgrundworkertemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\planningservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\webapi\u0026backgrundworkertemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\planningservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\webapi\u0026backgrundworkertemplate\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|solutionrelative:worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\planningservice\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\webapi\u0026backgrundworkertemplate\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|solutionrelative:nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\planningservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|c:\\users\\bruger\\source\\repos\\webapi\u0026backgrundworkertemplate\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{27DCC8D9-3F5E-461E-B283-F0C4E9A276CA}|WebAPI\u0026BackgrundWorkerTemplate.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -50,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,50 +54,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "DatabaseSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\Models\\DatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\Models\\DatabaseSettings.cs",
               "RelativeDocumentMoniker": "Models\\DatabaseSettings.cs",
-              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\Models\\DatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\Models\\DatabaseSettings.cs",
               "RelativeToolTip": "Models\\DatabaseSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T11:39:54.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T11:39:54.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\Program.cs",
+              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T11:36:49.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T11:36:49.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TestTemplateService.cs",
-              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\Services\\TestTemplateService.cs",
+              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\Services\\TestTemplateService.cs",
               "RelativeDocumentMoniker": "Services\\TestTemplateService.cs",
-              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\Services\\TestTemplateService.cs",
+              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\Services\\TestTemplateService.cs",
               "RelativeToolTip": "Services\\TestTemplateService.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAtwBMAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T11:18:31.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T11:18:31.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -109,11 +102,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -121,37 +114,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\Models\\Test.cs",
+              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\Models\\Test.cs",
               "RelativeDocumentMoniker": "Models\\Test.cs",
-              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\Models\\Test.cs",
+              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\Models\\Test.cs",
               "RelativeToolTip": "Models\\Test.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T11:25:57.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Planning-Service.http",
-              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\Planning-Service.http",
-              "RelativeDocumentMoniker": "Planning-Service.http",
-              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\Planning-Service.http",
-              "RelativeToolTip": "Planning-Service.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-05-06T11:05:18.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T11:25:57.673Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WebAPI\u0026BackgrundWorkerTemplate.csproj",
-              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\WebAPI\u0026BackgrundWorkerTemplate.csproj",
+              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\WebAPI\u0026BackgrundWorkerTemplate.csproj",
               "RelativeDocumentMoniker": "WebAPI\u0026BackgrundWorkerTemplate.csproj",
-              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\WebAPI\u0026BackgrundWorkerTemplate.csproj",
+              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\WebAPI\u0026BackgrundWorkerTemplate.csproj",
               "RelativeToolTip": "WebAPI\u0026BackgrundWorkerTemplate.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -160,11 +139,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Worker.cs",
-              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\Worker.cs",
               "RelativeDocumentMoniker": "Worker.cs",
-              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\Worker.cs",
+              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\Worker.cs",
               "RelativeToolTip": "Worker.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAIAwwBcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -172,11 +151,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "NLog.config",
-              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\NLog.config",
+              "DocumentMoniker": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\NLog.config",
               "RelativeDocumentMoniker": "NLog.config",
-              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\PlanningService\\NLog.config",
+              "ToolTip": "C:\\Users\\Bruger\\source\\repos\\WebAPI\u0026BackgrundWorkerTemplate\\NLog.config",
               "RelativeToolTip": "NLog.config",
               "ViewState": "AQIAAA0AAAAAAAAAAAAewB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
