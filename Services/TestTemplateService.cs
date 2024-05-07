@@ -1,9 +1,9 @@
-using Planning_Service.Models;
+using WebAPIBackgrundWorkerTemplate.Models;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
 using MongoDB.Driver.Core.Configuration;
 
-namespace Planning_Service.Services;
+namespace WebAPIBackgrundWorkerTemplate.Services;
 
 public class TestTemplateService
 {

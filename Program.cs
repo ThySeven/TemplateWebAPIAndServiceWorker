@@ -1,10 +1,10 @@
 
 using NLog.Web;
 using NLog;
-using Planning_Service.Models;
-using Planning_Service.Services;
+using WebAPIBackgrundWorkerTemplate.Models;
+using WebAPIBackgrundWorkerTemplate.Services;
 
-namespace Planning_Service;
+namespace WebAPIBackgrundWorkerTemplate;
 
 public class Program
 {

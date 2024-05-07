@@ -1,4 +1,4 @@
-﻿namespace Planning_Service.Models
+﻿namespace WebAPIBackgrundWorkerTemplate.Models
 {
     public class Test
     {
